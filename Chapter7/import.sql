@@ -82,65 +82,33 @@ insert into option (option_id, option_value, poll_id) values (52, '44', 15);
 insert into option (option_id, option_value, poll_id) values (53, '88', 15);
 insert into option (option_id, option_value, poll_id) values (54, '122', 15);
 
-insert into poll (poll_id, question) values (16, 'How many rings are on the Olympic flag?');
-insert into option (option_id, option_value, poll_id) values (51, '6', 16);
-insert into option (option_id, option_value, poll_id) values (52, '8', 16);
-insert into option (option_id, option_value, poll_id) values (53, '5', 16);
-insert into option (option_id, option_value, poll_id) values (54, '4', 16);
+insert into poll (poll_id, question) values (16, 'Which country gave America the Statue of Liberty?');
+insert into option (option_id, option_value, poll_id) values (55, 'Canada', 16);
+insert into option (option_id, option_value, poll_id) values (56, 'France', 16);
+insert into option (option_id, option_value, poll_id) values (57, 'Germany', 16);
+insert into option (option_id, option_value, poll_id) values (58, 'England', 16);
 
-insert into poll (poll_id, question) values (17, 'Which country gave America the Statue of Liberty?');
-insert into option (option_id, option_value, poll_id) values (55, 'Canada', 17);
-insert into option (option_id, option_value, poll_id) values (56, 'France', 17);
-insert into option (option_id, option_value, poll_id) values (57, 'Germany', 17);
-insert into option (option_id, option_value, poll_id) values (58, 'England', 17);
+insert into poll (poll_id, question) values (17, 'Best Christmas Gift?');
+insert into option (option_id, option_value, poll_id) values (59, 'Smartphone', 17);
+insert into option (option_id, option_value, poll_id) values (60, 'Car', 17);
+insert into option (option_id, option_value, poll_id) values (61, 'House', 17);
+insert into option (option_id, option_value, poll_id) values (62, 'World Trip', 17);
 
-insert into poll (poll_id, question) values (18, 'Best Christmas Gift?');
-insert into option (option_id, option_value, poll_id) values (59, 'Smartphone', 18);
-insert into option (option_id, option_value, poll_id) values (60, 'Car', 18);
-insert into option (option_id, option_value, poll_id) values (61, 'House', 18);
-insert into option (option_id, option_value, poll_id) values (62, 'World Trip', 18);
+insert into poll (poll_id, question) values (18, 'Favorite Vaccation Place?');
+insert into option (option_id, option_value, poll_id) values (63, 'Paris', 18);
+insert into option (option_id, option_value, poll_id) values (64, 'Hawaii', 18);
+insert into option (option_id, option_value, poll_id) values (65, 'Sydney', 18);
+insert into option (option_id, option_value, poll_id) values (66, 'Tokyo', 18);
 
-insert into poll (poll_id, question) values (19, 'Favorite Vaccation Place?');
-insert into option (option_id, option_value, poll_id) values (63, 'Paris', 19);
-insert into option (option_id, option_value, poll_id) values (64, 'Hawaii', 19);
-insert into option (option_id, option_value, poll_id) values (65, 'Sydney', 19);
-insert into option (option_id, option_value, poll_id) values (66, 'Tokyo', 19);
+insert into poll (poll_id, question) values (19, 'Philology is the study of?');
+insert into option (option_id, option_value, poll_id) values (67, 'Bones', 19);
+insert into option (option_id, option_value, poll_id) values (68, 'Muscles', 19);
+insert into option (option_id, option_value, poll_id) values (69, 'Architecture', 19);
+insert into option (option_id, option_value, poll_id) values (70, 'Languages', 19);
 
-insert into poll (poll_id, question) values (20, 'Philology is the study of?');
-insert into option (option_id, option_value, poll_id) values (67, 'Bones', 20);
-insert into option (option_id, option_value, poll_id) values (68, 'Muscles', 20);
-insert into option (option_id, option_value, poll_id) values (69, 'Architecture', 20);
-insert into option (option_id, option_value, poll_id) values (70, 'Languages', 20);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+insert into poll (poll_id, question) values (20, 'How many rings are on the Olympic flag?');
+insert into option (option_id, option_value, poll_id) values (71, '6', 20);
+insert into option (option_id, option_value, poll_id) values (72, '8', 20);
+insert into option (option_id, option_value, poll_id) values (73, '5', 20);
+insert into option (option_id, option_value, poll_id) values (74, '4', 20);
 
