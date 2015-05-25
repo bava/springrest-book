@@ -1,4 +1,3 @@
-# springrest-book
 Source code for "Spring REST Book", Apress Publishing 
 ====================================================
 
